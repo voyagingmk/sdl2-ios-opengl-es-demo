@@ -134,7 +134,7 @@
 		F562398A1EAB9253007C1649 /* Shader.fsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = Shader.fsh; sourceTree = "<group>"; };
 		F562398B1EAB9253007C1649 /* Shader.vsh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = Shader.vsh; sourceTree = "<group>"; };
 		F562398C1EAB9253007C1649 /* testgles.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = testgles.c; path = ../../testgles.c; sourceTree = "<group>"; };
-		F5F5384C1EAB8F8E005976DF /* build_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = build_ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5F5384C1EAB8F8E005976DF /* build_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = build_ios.app; path = "/Users/wyman/github/sdl2-ios-opengl-es-demo/build/build/Debug-iphoneos/build_ios.app"; sourceTree = "<absolute>"; };
 		F5FD6A951EA36DDE005AEB82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5FD6A9A1EA36DDE005AEB82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F5FD6AA31EA37371005AEB82 /* build_ios.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = build_ios.xcodeproj; sourceTree = "<group>"; };
@@ -291,7 +291,6 @@
 			children = (
 				F5FD6A841EA36DDE005AEB82 /* build_ios */,
 				F5FD6AA21EA37371005AEB82 /* Frameworks */,
-				F5F5384C1EAB8F8E005976DF /* build_ios.app */,
 			);
 			sourceTree = "<group>";
 		};
